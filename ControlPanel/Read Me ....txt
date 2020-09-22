@@ -1,0 +1,15 @@
+Hi folks! this is one code that you will really enjoy if you are ia fix like
+I was a few days back when I wanted to call control panel functions and that
+too the appropriate one ... my lil niece (who has just strted VB)  asked me
+if I can call the Display option of Control Panel and then when it opens it
+shows the ScreenSaver Tab .. well I did manage to call the Display Properties
+but never got the ScreenSaver tab to start as default .. I made this code for
+helping those who needs info about Displaying the indicated Windows settings
+dialog.
+Last but not the least this is first code I am dedicating to someone. I dedicate
+this code to my lovely lil niece Sanu as she was the first one to put me thinking
+about the stuff ....
+
+Please vote for me if you think it comes of any help to you ..
+Thank you for downloading ...
+Biswajyoti Das (askbiswa@hotmail.com)
